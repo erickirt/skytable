@@ -6,6 +6,14 @@ A modern NoSQL database, powered by BlueQL.<br/>
 <a href="https://github.com/skytable/skytable/releases"><img src="https://img.shields.io/github/v/release/skytable/skytable?style=flat" alt="GitHub release (with filter)"></a> <a href="https://github.com/skytable/skytable/actions"><img src="https://img.shields.io/github/actions/workflow/status/skytable/skytable/test-push.yml?style=flat" alt="GitHub Workflow Status (with event)"></a> <a href="https://discord.gg/QptWFdx"><img src="https://img.shields.io/discord/729378001023926282?logo=discord&style=flat" alt="Discord"></a> <a href="https://docs.skytable.io"><img src="https://img.shields.io/badge/read%20the%20docs-here-blue?style=flat" alt="Docs"></a> <a href="https://github.com/skytable/skytable/discussions?style=flat"><img src="https://img.shields.io/badge/discuss-here-8A3324?style=flat&logo=github&labelColor=C34723" alt="Static Badge"></a>
 </p>
 
+<blockquote>
+   <p><i><b>NEW RELEASE UPDATES</b></i></p>
+   <p>
+   A new version of Skytable (Skytable 0.9.0) has been in development for a while and is nearing completion. Skytable 0.9 adds clustering, new data types, and advanced querying features. The code is currently on a private repository but will be available on the <a href="https://github.com/skytable/skytable/tree/crv1"><span>crv1</span></a> branch. If you want to share any ideas or concerns before the release ships,<a href="https://github.com/skytable/skytable/issues/new"> please open an issue here</a>.
+   </p>
+   <p>This branch currently contains the source code for Skytable 0.8.</p>
+</blockquote>
+
 ## What is Skytable?
 
 Skytable is a **NoSQL database** implemented using modern design paradigms, that focuses on **performance, flexibility, and scalability**.
